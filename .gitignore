@@ -1,0 +1,5 @@
+/maindb.json
+/node_modules/
+/clientData/
+/keystore
+/app/factory/decompiled/build/
